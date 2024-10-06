@@ -1,0 +1,7 @@
+{
+  "name": "ionic_tema2_ejercicio2_guia_turistica",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
